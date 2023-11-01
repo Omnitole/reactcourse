@@ -1,0 +1,19 @@
+.Header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    background-color: green;
+}
+
+.Header a {
+    text-decoration: none;
+    font-size: 25px;
+}
+.Header a[class='active'] {
+    color: yellow;
+}
+
+.Aboba{
+    color:snow;
+}
